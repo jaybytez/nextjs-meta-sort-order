@@ -1,0 +1,15 @@
+{
+  "name": "nextjs-meta-sort-order",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.5.4-canary.23",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
